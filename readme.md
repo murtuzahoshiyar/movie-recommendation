@@ -130,7 +130,7 @@ The application fetches real-time movie information from TMDB including:
 Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/Movie-Recommendation-System.git
+git clone https://github.com/murtuzahoshiyar/Movie-Recommendation-System.git
 ```
 
 Go to the project directory
@@ -308,16 +308,10 @@ If you found this project useful, consider giving it a ⭐ on GitHub.
 
 **Murtuza Hoshiyar**
 
-BCA (Cloud Computing)
+M.SC(Data Science)
 
-- GitHub: https://github.com/yourusername
-- LinkedIn: https://linkedin.com/in/yourprofile
+- GitHub: https://github.com/murtuzahoshiyar
 
----
-
-# 📄 License
-
-This project is licensed under the MIT License.
 
 ---
 
